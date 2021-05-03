@@ -5,6 +5,7 @@
 - I’m looking for employment opportunities for mid level data analyst/scientist/engineer roles
 - I'm open to collaborating on various ML projects to gain more practical experience. 
 - How to reach me: daniel.majer@my.jcu.edu.au
+- Here is a link to my Portfolio -> [Daniel Majer Portfolio](https://danielmajer24.github.io/Porfolio-of-Work/)
 
 <!---
 DanielMajer24/DanielMajer24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
