@@ -3,6 +3,7 @@
 - I’m currently finishing my last subject of my Master of Data Science at James Cook Univsersity. 
 - I'm currently becoming certified as a Google Cloud Professional Data Engineer. 
 - I’m looking for employment opportunities for mid level data analyst/scientist/engineer roles
+- I'm open to collaborating on various ML projects to gain more practical experience. 
 - How to reach me: daniel.majer@my.jcu.edu.au
 
 <!---
