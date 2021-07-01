@@ -1,6 +1,6 @@
 - Hi, I’m Daniel Majer and for the last 3 years I have been working as a Education Data Analyst whilst working as a high school maths and digital technology teacher. 
 - I’m interested in Data Integration and Preparation, Data Visualisation, Machine Learning and Data Mining. 
-- I’m currently finishing my last subject of my Master of Data Science at James Cook Univsersity (GPA = 6.64). 
+- I have completed my Master of Data Science (with Distinction) at James Cook Univsersity. 
 - I'm preparing for the Google Cloud Professional Data Engineer certification exam and plan to sit it the 2nd half of 2021. 
 - I’m looking for employment opportunities for mid level data analyst/scientist/engineer roles
 - I'm open to collaborating on various ML projects to gain more practical experience. 
