@@ -3,8 +3,8 @@
 - I’m interested in Data Integration and Preparation, Data Visualisation, Machine Learning and Data Mining.
 - I have completed my Master of Data Science (with Distinction) at James Cook Univsersity. 
 - I'm open to collaborating on various ML projects to gain more practical experience.
-- I getting a lot of experience processing PDF documents using R and Python and creating Data Science Apps using R Shiny with Python for the backend #reticulate. 
-- How to reach me: daniel.majer@my.jcu.edu.au
+- I getting a lot of experience creating Data Science Apps and Dashboards using R Shiny and Streamlit so users can get real time analytics from behind the scenes models. 
+- How to reach me: daniel.majer64@gmail.com
 - Here is a link to my Portfolio -> [Daniel Majer Portfolio](https://danielmajer24.github.io/Porfolio-of-Work/)
 
 <!---
